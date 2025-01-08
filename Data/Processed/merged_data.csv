@@ -1,0 +1,833 @@
+TEAM_NAME,FG3M,FG3A,FG3_PCT,W_RANK,SEASON,year,Champion
+Atlanta Hawks,659,1833,0.36,7,1996-97,1996-97,Utah Jazz
+Boston Celtics,467,1331,0.351,28,1996-97,1996-97,Utah Jazz
+Charlotte Hornets,591,1382,0.428,9,1996-97,1996-97,Utah Jazz
+Chicago Bulls,523,1403,0.373,1,1996-97,1996-97,Utah Jazz
+Cleveland Cavaliers,483,1284,0.376,14,1996-97,1996-97,Utah Jazz
+Dallas Mavericks,429,1315,0.326,24,1996-97,1996-97,Utah Jazz
+Denver Nuggets,636,1711,0.372,26,1996-97,1996-97,Utah Jazz
+Detroit Pistons,582,1499,0.388,9,1996-97,1996-97,Utah Jazz
+Golden State Warriors,481,1363,0.353,21,1996-97,1996-97,Utah Jazz
+Houston Rockets,671,1839,0.365,4,1996-97,1996-97,Utah Jazz
+Indiana Pacers,430,1130,0.381,17,1996-97,1996-97,Utah Jazz
+Los Angeles Clippers,474,1339,0.354,18,1996-97,1996-97,Utah Jazz
+Los Angeles Lakers,551,1500,0.367,7,1996-97,1996-97,Utah Jazz
+Miami Heat,678,1865,0.364,3,1996-97,1996-97,Utah Jazz
+Milwaukee Bucks,324,920,0.352,20,1996-97,1996-97,Utah Jazz
+Minnesota Timberwolves,371,1093,0.339,15,1996-97,1996-97,Utah Jazz
+New Jersey Nets,484,1371,0.353,23,1996-97,1996-97,Utah Jazz
+New York Knicks,470,1294,0.363,4,1996-97,1996-97,Utah Jazz
+Orlando Magic,567,1662,0.341,12,1996-97,1996-97,Utah Jazz
+Philadelphia 76ers,433,1356,0.319,25,1996-97,1996-97,Utah Jazz
+Phoenix Suns,527,1428,0.369,15,1996-97,1996-97,Utah Jazz
+Portland Trail Blazers,501,1401,0.358,11,1996-97,1996-97,Utah Jazz
+Sacramento Kings,414,1058,0.391,19,1996-97,1996-97,Utah Jazz
+San Antonio Spurs,378,1180,0.32,27,1996-97,1996-97,Utah Jazz
+Seattle SuperSonics,559,1583,0.353,4,1996-97,1996-97,Utah Jazz
+Toronto Raptors,589,1624,0.363,21,1996-97,1996-97,Utah Jazz
+Utah Jazz,334,902,0.37,2,1996-97,1996-97,Utah Jazz
+Vancouver Grizzlies,445,1274,0.349,29,1996-97,1996-97,Utah Jazz
+Washington Bullets,331,1001,0.331,13,1996-97,1996-97,Utah Jazz
+Atlanta Hawks,337,1016,0.332,10,1997-98,1997-98,Utah Jazz
+Boston Celtics,415,1249,0.332,20,1997-98,1997-98,Utah Jazz
+Charlotte Hornets,346,904,0.383,9,1997-98,1997-98,Utah Jazz
+Chicago Bulls,311,962,0.323,1,1997-98,1997-98,Utah Jazz
+Cleveland Cavaliers,298,801,0.372,11,1997-98,1997-98,Utah Jazz
+Dallas Mavericks,422,1183,0.357,24,1997-98,1997-98,Utah Jazz
+Denver Nuggets,288,893,0.323,29,1997-98,1997-98,Utah Jazz
+Detroit Pistons,293,938,0.312,19,1997-98,1997-98,Utah Jazz
+Golden State Warriors,189,696,0.272,25,1997-98,1997-98,Utah Jazz
+Houston Rockets,573,1670,0.343,17,1997-98,1997-98,Utah Jazz
+Indiana Pacers,401,1029,0.39,5,1997-98,1997-98,Utah Jazz
+Los Angeles Clippers,525,1468,0.358,27,1997-98,1997-98,Utah Jazz
+Los Angeles Lakers,497,1415,0.351,3,1997-98,1997-98,Utah Jazz
+Miami Heat,548,1544,0.355,8,1997-98,1997-98,Utah Jazz
+Milwaukee Bucks,249,703,0.354,20,1997-98,1997-98,Utah Jazz
+Minnesota Timberwolves,303,873,0.347,13,1997-98,1997-98,Utah Jazz
+New Jersey Nets,310,937,0.331,14,1997-98,1997-98,Utah Jazz
+New York Knicks,382,1139,0.335,14,1997-98,1997-98,Utah Jazz
+Orlando Magic,293,907,0.323,17,1997-98,1997-98,Utah Jazz
+Philadelphia 76ers,243,810,0.3,22,1997-98,1997-98,Utah Jazz
+Phoenix Suns,431,1211,0.356,6,1997-98,1997-98,Utah Jazz
+Portland Trail Blazers,324,1047,0.309,12,1997-98,1997-98,Utah Jazz
+Sacramento Kings,283,806,0.351,23,1997-98,1997-98,Utah Jazz
+San Antonio Spurs,302,863,0.35,6,1997-98,1997-98,Utah Jazz
+Seattle SuperSonics,621,1571,0.395,3,1997-98,1997-98,Utah Jazz
+Toronto Raptors,372,1086,0.343,28,1997-98,1997-98,Utah Jazz
+Utah Jazz,249,670,0.372,1,1997-98,1997-98,Utah Jazz
+Vancouver Grizzlies,325,898,0.362,25,1997-98,1997-98,Utah Jazz
+Washington Wizards,320,944,0.339,16,1997-98,1997-98,Utah Jazz
+Atlanta Hawks,197,644,0.306,7,1998-99,1998-99,San Antonio Spurs
+Boston Celtics,273,758,0.36,22,1998-99,1998-99,San Antonio Spurs
+Charlotte Hornets,268,735,0.365,16,1998-99,1998-99,San Antonio Spurs
+Chicago Bulls,177,611,0.29,27,1998-99,1998-99,San Antonio Spurs
+Cleveland Cavaliers,182,534,0.341,20,1998-99,1998-99,San Antonio Spurs
+Dallas Mavericks,202,595,0.339,22,1998-99,1998-99,San Antonio Spurs
+Denver Nuggets,302,922,0.328,26,1998-99,1998-99,San Antonio Spurs
+Detroit Pistons,248,679,0.365,10,1998-99,1998-99,San Antonio Spurs
+Golden State Warriors,162,565,0.287,21,1998-99,1998-99,San Antonio Spurs
+Houston Rockets,336,914,0.368,7,1998-99,1998-99,San Antonio Spurs
+Indiana Pacers,294,799,0.368,4,1998-99,1998-99,San Antonio Spurs
+Los Angeles Clippers,214,668,0.32,28,1998-99,1998-99,San Antonio Spurs
+Los Angeles Lakers,241,685,0.352,7,1998-99,1998-99,San Antonio Spurs
+Miami Heat,289,804,0.359,4,1998-99,1998-99,San Antonio Spurs
+Milwaukee Bucks,231,619,0.373,11,1998-99,1998-99,San Antonio Spurs
+Minnesota Timberwolves,122,410,0.298,17,1998-99,1998-99,San Antonio Spurs
+New Jersey Nets,225,679,0.331,25,1998-99,1998-99,San Antonio Spurs
+New York Knicks,208,589,0.353,13,1998-99,1998-99,San Antonio Spurs
+Orlando Magic,223,675,0.33,4,1998-99,1998-99,San Antonio Spurs
+Philadelphia 76ers,98,371,0.264,11,1998-99,1998-99,San Antonio Spurs
+Phoenix Suns,261,702,0.372,13,1998-99,1998-99,San Antonio Spurs
+Portland Trail Blazers,246,675,0.364,3,1998-99,1998-99,San Antonio Spurs
+Sacramento Kings,290,943,0.308,13,1998-99,1998-99,San Antonio Spurs
+San Antonio Spurs,172,521,0.33,1,1998-99,1998-99,San Antonio Spurs
+Seattle SuperSonics,309,899,0.344,17,1998-99,1998-99,San Antonio Spurs
+Toronto Raptors,226,662,0.341,19,1998-99,1998-99,San Antonio Spurs
+Utah Jazz,140,388,0.361,1,1998-99,1998-99,San Antonio Spurs
+Vancouver Grizzlies,148,453,0.327,29,1998-99,1998-99,San Antonio Spurs
+Washington Wizards,179,580,0.309,24,1998-99,1998-99,San Antonio Spurs
+Atlanta Hawks,258,814,0.317,25,1999-00,1999-00,Los Angeles Lakers
+Boston Celtics,417,1260,0.331,19,1999-00,1999-00,Los Angeles Lakers
+Charlotte Hornets,339,1001,0.339,10,1999-00,1999-00,Los Angeles Lakers
+Chicago Bulls,340,1033,0.329,28,1999-00,1999-00,Los Angeles Lakers
+Cleveland Cavaliers,343,919,0.373,22,1999-00,1999-00,Los Angeles Lakers
+Dallas Mavericks,519,1326,0.391,18,1999-00,1999-00,Los Angeles Lakers
+Denver Nuggets,470,1397,0.336,19,1999-00,1999-00,Los Angeles Lakers
+Detroit Pistons,439,1223,0.359,15,1999-00,1999-00,Los Angeles Lakers
+Golden State Warriors,345,1069,0.323,27,1999-00,1999-00,Los Angeles Lakers
+Houston Rockets,581,1625,0.358,21,1999-00,1999-00,Los Angeles Lakers
+Indiana Pacers,583,1487,0.392,3,1999-00,1999-00,Los Angeles Lakers
+Los Angeles Clippers,429,1267,0.339,29,1999-00,1999-00,Los Angeles Lakers
+Los Angeles Lakers,344,1047,0.329,1,1999-00,1999-00,Los Angeles Lakers
+Miami Heat,446,1202,0.371,7,1999-00,1999-00,Los Angeles Lakers
+Milwaukee Bucks,394,1069,0.369,15,1999-00,1999-00,Los Angeles Lakers
+Minnesota Timberwolves,248,716,0.346,8,1999-00,1999-00,Los Angeles Lakers
+New Jersey Nets,477,1374,0.347,23,1999-00,1999-00,Los Angeles Lakers
+New York Knicks,351,937,0.375,8,1999-00,1999-00,Los Angeles Lakers
+Orlando Magic,294,870,0.338,17,1999-00,1999-00,Los Angeles Lakers
+Philadelphia 76ers,208,643,0.323,10,1999-00,1999-00,Los Angeles Lakers
+Phoenix Suns,458,1246,0.368,5,1999-00,1999-00,Los Angeles Lakers
+Portland Trail Blazers,407,1128,0.361,2,1999-00,1999-00,Los Angeles Lakers
+Sacramento Kings,534,1656,0.322,14,1999-00,1999-00,Los Angeles Lakers
+San Antonio Spurs,330,882,0.374,5,1999-00,1999-00,Los Angeles Lakers
+Seattle SuperSonics,546,1611,0.339,12,1999-00,1999-00,Los Angeles Lakers
+Toronto Raptors,425,1171,0.363,12,1999-00,1999-00,Los Angeles Lakers
+Utah Jazz,329,854,0.385,4,1999-00,1999-00,Los Angeles Lakers
+Vancouver Grizzlies,324,898,0.361,26,1999-00,1999-00,Los Angeles Lakers
+Washington Wizards,335,890,0.376,24,1999-00,1999-00,Los Angeles Lakers
+Atlanta Hawks,333,933,0.357,25,2000-01,2000-01,Los Angeles Lakers
+Boston Celtics,592,1633,0.363,20,2000-01,2000-01,Los Angeles Lakers
+Charlotte Hornets,340,984,0.346,14,2000-01,2000-01,Los Angeles Lakers
+Chicago Bulls,329,950,0.346,29,2000-01,2000-01,Los Angeles Lakers
+Cleveland Cavaliers,220,659,0.334,23,2000-01,2000-01,Los Angeles Lakers
+Dallas Mavericks,517,1357,0.381,5,2000-01,2000-01,Los Angeles Lakers
+Denver Nuggets,512,1444,0.355,19,2000-01,2000-01,Los Angeles Lakers
+Detroit Pistons,389,1112,0.35,21,2000-01,2000-01,Los Angeles Lakers
+Golden State Warriors,282,964,0.293,28,2000-01,2000-01,Los Angeles Lakers
+Houston Rockets,504,1412,0.357,15,2000-01,2000-01,Los Angeles Lakers
+Indiana Pacers,396,1159,0.342,18,2000-01,2000-01,Los Angeles Lakers
+Los Angeles Clippers,360,1063,0.339,22,2000-01,2000-01,Los Angeles Lakers
+Los Angeles Lakers,439,1275,0.344,2,2000-01,2000-01,Los Angeles Lakers
+Miami Heat,478,1384,0.345,9,2000-01,2000-01,Los Angeles Lakers
+Milwaukee Bucks,562,1481,0.379,7,2000-01,2000-01,Los Angeles Lakers
+Minnesota Timberwolves,322,901,0.357,12,2000-01,2000-01,Los Angeles Lakers
+New Jersey Nets,361,1084,0.333,24,2000-01,2000-01,Los Angeles Lakers
+New York Knicks,391,1115,0.351,11,2000-01,2000-01,Los Angeles Lakers
+Orlando Magic,490,1346,0.364,17,2000-01,2000-01,Los Angeles Lakers
+Philadelphia 76ers,262,803,0.326,2,2000-01,2000-01,Los Angeles Lakers
+Phoenix Suns,332,1054,0.315,8,2000-01,2000-01,Los Angeles Lakers
+Portland Trail Blazers,369,1057,0.349,9,2000-01,2000-01,Los Angeles Lakers
+Sacramento Kings,479,1353,0.354,4,2000-01,2000-01,Los Angeles Lakers
+San Antonio Spurs,445,1094,0.407,1,2000-01,2000-01,Los Angeles Lakers
+Seattle SuperSonics,466,1169,0.399,16,2000-01,2000-01,Los Angeles Lakers
+Toronto Raptors,429,1164,0.369,12,2000-01,2000-01,Los Angeles Lakers
+Utah Jazz,325,852,0.381,5,2000-01,2000-01,Los Angeles Lakers
+Vancouver Grizzlies,325,947,0.343,26,2000-01,2000-01,Los Angeles Lakers
+Washington Wizards,275,848,0.324,27,2000-01,2000-01,Los Angeles Lakers
+Atlanta Hawks,423,1194,0.354,22,2001-02,2001-02,Los Angeles Lakers
+Boston Celtics,699,1946,0.359,8,2001-02,2001-02,Los Angeles Lakers
+Charlotte Hornets,346,994,0.348,11,2001-02,2001-02,Los Angeles Lakers
+Chicago Bulls,300,868,0.346,28,2001-02,2001-02,Los Angeles Lakers
+Cleveland Cavaliers,387,1026,0.377,24,2001-02,2001-02,Los Angeles Lakers
+Dallas Mavericks,621,1645,0.378,4,2001-02,2001-02,Los Angeles Lakers
+Denver Nuggets,423,1285,0.329,26,2001-02,2001-02,Los Angeles Lakers
+Detroit Pistons,567,1509,0.376,6,2001-02,2001-02,Los Angeles Lakers
+Golden State Warriors,320,994,0.322,28,2001-02,2001-02,Los Angeles Lakers
+Houston Rockets,496,1480,0.335,25,2001-02,2001-02,Los Angeles Lakers
+Indiana Pacers,405,1195,0.339,15,2001-02,2001-02,Los Angeles Lakers
+Los Angeles Clippers,408,1147,0.356,18,2001-02,2001-02,Los Angeles Lakers
+Los Angeles Lakers,510,1439,0.354,2,2001-02,2001-02,Los Angeles Lakers
+Memphis Grizzlies,336,1096,0.307,27,2001-02,2001-02,Los Angeles Lakers
+Miami Heat,312,899,0.347,20,2001-02,2001-02,Los Angeles Lakers
+Milwaukee Bucks,593,1583,0.375,17,2001-02,2001-02,Los Angeles Lakers
+Minnesota Timberwolves,396,1047,0.378,6,2001-02,2001-02,Los Angeles Lakers
+New Jersey Nets,403,1194,0.338,5,2001-02,2001-02,Los Angeles Lakers
+New York Knicks,474,1344,0.353,23,2001-02,2001-02,Los Angeles Lakers
+Orlando Magic,620,1660,0.373,11,2001-02,2001-02,Los Angeles Lakers
+Philadelphia 76ers,214,715,0.299,14,2001-02,2001-02,Los Angeles Lakers
+Phoenix Suns,358,1096,0.327,20,2001-02,2001-02,Los Angeles Lakers
+Portland Trail Blazers,466,1318,0.354,8,2001-02,2001-02,Los Angeles Lakers
+Sacramento Kings,426,1160,0.367,1,2001-02,2001-02,Los Angeles Lakers
+San Antonio Spurs,438,1211,0.362,2,2001-02,2001-02,Los Angeles Lakers
+Seattle SuperSonics,489,1292,0.378,10,2001-02,2001-02,Los Angeles Lakers
+Toronto Raptors,387,1109,0.349,15,2001-02,2001-02,Los Angeles Lakers
+Utah Jazz,280,842,0.333,11,2001-02,2001-02,Los Angeles Lakers
+Washington Wizards,305,786,0.388,19,2001-02,2001-02,Los Angeles Lakers
+Atlanta Hawks,402,1141,0.352,22,2002-03,2002-03,San Antonio Spurs
+Boston Celtics,719,2155,0.334,13,2002-03,2002-03,San Antonio Spurs
+Chicago Bulls,349,997,0.35,23,2002-03,2002-03,San Antonio Spurs
+Cleveland Cavaliers,293,897,0.327,28,2002-03,2002-03,San Antonio Spurs
+Dallas Mavericks,636,1668,0.381,1,2002-03,2002-03,San Antonio Spurs
+Denver Nuggets,229,824,0.278,28,2002-03,2002-03,San Antonio Spurs
+Detroit Pistons,533,1488,0.358,5,2002-03,2002-03,San Antonio Spurs
+Golden State Warriors,425,1235,0.344,19,2002-03,2002-03,San Antonio Spurs
+Houston Rockets,439,1267,0.346,15,2002-03,2002-03,San Antonio Spurs
+Indiana Pacers,379,1119,0.339,9,2002-03,2002-03,San Antonio Spurs
+Los Angeles Clippers,390,1178,0.331,25,2002-03,2002-03,San Antonio Spurs
+Los Angeles Lakers,486,1367,0.356,5,2002-03,2002-03,San Antonio Spurs
+Memphis Grizzlies,467,1279,0.365,24,2002-03,2002-03,San Antonio Spurs
+Miami Heat,348,1100,0.316,26,2002-03,2002-03,San Antonio Spurs
+Milwaukee Bucks,585,1526,0.383,16,2002-03,2002-03,San Antonio Spurs
+Minnesota Timberwolves,296,804,0.368,4,2002-03,2002-03,San Antonio Spurs
+New Jersey Nets,346,1041,0.332,8,2002-03,2002-03,San Antonio Spurs
+New Orleans Hornets,404,1075,0.376,11,2002-03,2002-03,San Antonio Spurs
+New York Knicks,606,1582,0.383,20,2002-03,2002-03,San Antonio Spurs
+Orlando Magic,568,1590,0.357,16,2002-03,2002-03,San Antonio Spurs
+Philadelphia 76ers,245,787,0.311,9,2002-03,2002-03,San Antonio Spurs
+Phoenix Suns,394,1149,0.343,13,2002-03,2002-03,San Antonio Spurs
+Portland Trail Blazers,379,1150,0.33,5,2002-03,2002-03,San Antonio Spurs
+Sacramento Kings,491,1288,0.381,3,2002-03,2002-03,San Antonio Spurs
+San Antonio Spurs,449,1270,0.354,1,2002-03,2002-03,San Antonio Spurs
+Seattle SuperSonics,456,1291,0.353,18,2002-03,2002-03,San Antonio Spurs
+Toronto Raptors,409,1193,0.343,27,2002-03,2002-03,San Antonio Spurs
+Utah Jazz,224,641,0.349,11,2002-03,2002-03,San Antonio Spurs
+Washington Wizards,253,811,0.312,20,2002-03,2002-03,San Antonio Spurs
+Atlanta Hawks,419,1249,0.335,25,2003-04,2003-04,Los Angeles Lakers
+Boston Celtics,553,1599,0.346,20,2003-04,2003-04,Los Angeles Lakers
+Chicago Bulls,429,1256,0.342,28,2003-04,2003-04,Los Angeles Lakers
+Cleveland Cavaliers,247,786,0.314,21,2003-04,2003-04,Los Angeles Lakers
+Dallas Mavericks,507,1456,0.348,7,2003-04,2003-04,Los Angeles Lakers
+Denver Nuggets,331,985,0.336,11,2003-04,2003-04,Los Angeles Lakers
+Detroit Pistons,333,968,0.344,6,2003-04,2003-04,Los Angeles Lakers
+Golden State Warriors,429,1283,0.334,18,2003-04,2003-04,Los Angeles Lakers
+Houston Rockets,515,1406,0.366,10,2003-04,2003-04,Los Angeles Lakers
+Indiana Pacers,449,1281,0.351,1,2003-04,2003-04,Los Angeles Lakers
+Los Angeles Clippers,329,1024,0.321,25,2003-04,2003-04,Los Angeles Lakers
+Los Angeles Lakers,365,1115,0.327,4,2003-04,2003-04,Los Angeles Lakers
+Memphis Grizzlies,447,1314,0.34,8,2003-04,2003-04,Los Angeles Lakers
+Miami Heat,485,1357,0.357,12,2003-04,2003-04,Los Angeles Lakers
+Milwaukee Bucks,401,1145,0.35,14,2003-04,2003-04,Los Angeles Lakers
+Minnesota Timberwolves,326,897,0.363,2,2003-04,2003-04,Los Angeles Lakers
+New Jersey Nets,377,1123,0.336,9,2003-04,2003-04,Los Angeles Lakers
+New Orleans Hornets,531,1666,0.319,14,2003-04,2003-04,Los Angeles Lakers
+New York Knicks,406,1115,0.364,17,2003-04,2003-04,Los Angeles Lakers
+Orlando Magic,429,1248,0.344,29,2003-04,2003-04,Los Angeles Lakers
+Philadelphia 76ers,339,992,0.342,22,2003-04,2003-04,Los Angeles Lakers
+Phoenix Suns,415,1202,0.345,24,2003-04,2003-04,Los Angeles Lakers
+Portland Trail Blazers,381,1102,0.346,14,2003-04,2003-04,Los Angeles Lakers
+Sacramento Kings,601,1498,0.401,5,2003-04,2003-04,Los Angeles Lakers
+San Antonio Spurs,408,1140,0.358,3,2003-04,2003-04,Los Angeles Lakers
+Seattle SuperSonics,723,1936,0.373,18,2003-04,2003-04,Los Angeles Lakers
+Toronto Raptors,461,1294,0.356,22,2003-04,2003-04,Los Angeles Lakers
+Utah Jazz,252,786,0.321,12,2003-04,2003-04,Los Angeles Lakers
+Washington Wizards,434,1270,0.342,27,2003-04,2003-04,Los Angeles Lakers
+Atlanta Hawks,304,973,0.312,30,2004-05,2004-05,San Antonio Spurs
+Boston Celtics,437,1252,0.349,11,2004-05,2004-05,San Antonio Spurs
+Charlotte Bobcats,320,881,0.363,28,2004-05,2004-05,San Antonio Spurs
+Chicago Bulls,511,1433,0.357,10,2004-05,2004-05,San Antonio Spurs
+Cleveland Cavaliers,300,904,0.332,17,2004-05,2004-05,San Antonio Spurs
+Dallas Mavericks,463,1273,0.364,4,2004-05,2004-05,San Antonio Spurs
+Denver Nuggets,320,940,0.34,9,2004-05,2004-05,San Antonio Spurs
+Detroit Pistons,363,1053,0.345,5,2004-05,2004-05,San Antonio Spurs
+Golden State Warriors,624,1774,0.352,21,2004-05,2004-05,San Antonio Spurs
+Houston Rockets,553,1521,0.364,7,2004-05,2004-05,San Antonio Spurs
+Indiana Pacers,542,1575,0.344,14,2004-05,2004-05,San Antonio Spurs
+Los Angeles Clippers,231,669,0.345,19,2004-05,2004-05,San Antonio Spurs
+Los Angeles Lakers,644,1813,0.355,21,2004-05,2004-05,San Antonio Spurs
+Memphis Grizzlies,531,1486,0.357,11,2004-05,2004-05,San Antonio Spurs
+Miami Heat,475,1260,0.377,2,2004-05,2004-05,San Antonio Spurs
+Milwaukee Bucks,325,925,0.351,25,2004-05,2004-05,San Antonio Spurs
+Minnesota Timberwolves,395,1145,0.345,14,2004-05,2004-05,San Antonio Spurs
+New Jersey Nets,435,1203,0.362,17,2004-05,2004-05,San Antonio Spurs
+New Orleans Hornets,415,1316,0.315,28,2004-05,2004-05,San Antonio Spurs
+New York Knicks,441,1240,0.356,23,2004-05,2004-05,San Antonio Spurs
+Orlando Magic,320,916,0.349,20,2004-05,2004-05,San Antonio Spurs
+Philadelphia 76ers,505,1453,0.348,16,2004-05,2004-05,San Antonio Spurs
+Phoenix Suns,796,2026,0.393,1,2004-05,2004-05,San Antonio Spurs
+Portland Trail Blazers,420,1161,0.362,26,2004-05,2004-05,San Antonio Spurs
+Sacramento Kings,522,1396,0.374,8,2004-05,2004-05,San Antonio Spurs
+San Antonio Spurs,507,1395,0.363,2,2004-05,2004-05,San Antonio Spurs
+Seattle SuperSonics,666,1824,0.365,6,2004-05,2004-05,San Antonio Spurs
+Toronto Raptors,648,1681,0.385,23,2004-05,2004-05,San Antonio Spurs
+Utah Jazz,250,762,0.328,27,2004-05,2004-05,San Antonio Spurs
+Washington Wizards,514,1498,0.343,11,2004-05,2004-05,San Antonio Spurs
+Atlanta Hawks,424,1154,0.367,27,2005-06,2005-06,Dallas Mavericks
+Boston Celtics,467,1290,0.362,24,2005-06,2005-06,Dallas Mavericks
+Charlotte Bobcats,428,1261,0.339,27,2005-06,2005-06,Dallas Mavericks
+Chicago Bulls,560,1477,0.379,14,2005-06,2005-06,Dallas Mavericks
+Cleveland Cavaliers,497,1465,0.339,6,2005-06,2005-06,Dallas Mavericks
+Dallas Mavericks,416,1113,0.374,3,2005-06,2005-06,Dallas Mavericks
+Denver Nuggets,350,1076,0.325,11,2005-06,2005-06,Dallas Mavericks
+Detroit Pistons,557,1451,0.384,1,2005-06,2005-06,Dallas Mavericks
+Golden State Warriors,625,1832,0.341,22,2005-06,2005-06,Dallas Mavericks
+Houston Rockets,469,1414,0.332,22,2005-06,2005-06,Dallas Mavericks
+Indiana Pacers,536,1536,0.349,14,2005-06,2005-06,Dallas Mavericks
+Los Angeles Clippers,290,843,0.344,9,2005-06,2005-06,Dallas Mavericks
+Los Angeles Lakers,552,1583,0.349,10,2005-06,2005-06,Dallas Mavericks
+Memphis Grizzlies,590,1578,0.374,7,2005-06,2005-06,Dallas Mavericks
+Miami Heat,497,1441,0.345,5,2005-06,2005-06,Dallas Mavericks
+Milwaukee Bucks,507,1335,0.38,17,2005-06,2005-06,Dallas Mavericks
+Minnesota Timberwolves,310,942,0.329,24,2005-06,2005-06,Dallas Mavericks
+New Jersey Nets,477,1447,0.33,7,2005-06,2005-06,Dallas Mavericks
+New Orleans/Oklahoma City Hornets,300,885,0.339,18,2005-06,2005-06,Dallas Mavericks
+New York Knicks,320,884,0.362,29,2005-06,2005-06,Dallas Mavericks
+Orlando Magic,299,796,0.376,20,2005-06,2005-06,Dallas Mavericks
+Philadelphia 76ers,375,1031,0.364,18,2005-06,2005-06,Dallas Mavericks
+Phoenix Suns,837,2097,0.399,4,2005-06,2005-06,Dallas Mavericks
+Portland Trail Blazers,364,1042,0.349,30,2005-06,2005-06,Dallas Mavericks
+Sacramento Kings,494,1408,0.351,11,2005-06,2005-06,Dallas Mavericks
+San Antonio Spurs,524,1362,0.385,2,2005-06,2005-06,Dallas Mavericks
+Seattle SuperSonics,605,1631,0.371,21,2005-06,2005-06,Dallas Mavericks
+Toronto Raptors,608,1620,0.375,26,2005-06,2005-06,Dallas Mavericks
+Utah Jazz,311,925,0.336,14,2005-06,2005-06,Dallas Mavericks
+Washington Wizards,497,1394,0.357,13,2005-06,2005-06,Dallas Mavericks
+Atlanta Hawks,341,1038,0.329,27,2006-07,2006-07,San Antonio Spurs
+Boston Celtics,471,1283,0.367,29,2006-07,2006-07,San Antonio Spurs
+Charlotte Bobcats,457,1280,0.357,21,2006-07,2006-07,San Antonio Spurs
+Chicago Bulls,480,1237,0.388,8,2006-07,2006-07,San Antonio Spurs
+Cleveland Cavaliers,494,1404,0.352,7,2006-07,2006-07,San Antonio Spurs
+Dallas Mavericks,535,1404,0.381,1,2006-07,2006-07,San Antonio Spurs
+Denver Nuggets,484,1440,0.336,10,2006-07,2006-07,San Antonio Spurs
+Detroit Pistons,449,1305,0.344,4,2006-07,2006-07,San Antonio Spurs
+Golden State Warriors,700,1966,0.356,12,2006-07,2006-07,San Antonio Spurs
+Houston Rockets,705,1893,0.372,5,2006-07,2006-07,San Antonio Spurs
+Indiana Pacers,481,1389,0.346,19,2006-07,2006-07,San Antonio Spurs
+Los Angeles Clippers,314,903,0.348,16,2006-07,2006-07,San Antonio Spurs
+Los Angeles Lakers,608,1724,0.353,12,2006-07,2006-07,San Antonio Spurs
+Memphis Grizzlies,500,1362,0.367,30,2006-07,2006-07,San Antonio Spurs
+Miami Heat,528,1539,0.343,11,2006-07,2006-07,San Antonio Spurs
+Milwaukee Bucks,524,1472,0.356,28,2006-07,2006-07,San Antonio Spurs
+Minnesota Timberwolves,384,1089,0.353,24,2006-07,2006-07,San Antonio Spurs
+New Jersey Nets,609,1676,0.363,14,2006-07,2006-07,San Antonio Spurs
+New Orleans/Oklahoma City Hornets,455,1256,0.362,18,2006-07,2006-07,San Antonio Spurs
+New York Knicks,474,1370,0.346,21,2006-07,2006-07,San Antonio Spurs
+Orlando Magic,342,962,0.356,16,2006-07,2006-07,San Antonio Spurs
+Philadelphia 76ers,284,823,0.345,19,2006-07,2006-07,San Antonio Spurs
+Phoenix Suns,785,1965,0.399,2,2006-07,2006-07,San Antonio Spurs
+Portland Trail Blazers,426,1232,0.346,24,2006-07,2006-07,San Antonio Spurs
+Sacramento Kings,530,1513,0.35,21,2006-07,2006-07,San Antonio Spurs
+San Antonio Spurs,595,1561,0.381,3,2006-07,2006-07,San Antonio Spurs
+Seattle SuperSonics,525,1451,0.362,26,2006-07,2006-07,San Antonio Spurs
+Toronto Raptors,531,1464,0.363,9,2006-07,2006-07,San Antonio Spurs
+Utah Jazz,354,1056,0.335,6,2006-07,2006-07,San Antonio Spurs
+Washington Wizards,561,1614,0.348,14,2006-07,2006-07,San Antonio Spurs
+Atlanta Hawks,384,1078,0.356,19,2007-08,2007-08,Los Angeles Lakers
+Boston Celtics,596,1564,0.381,1,2007-08,2007-08,Los Angeles Lakers
+Charlotte Bobcats,529,1443,0.367,23,2007-08,2007-08,Los Angeles Lakers
+Chicago Bulls,474,1305,0.363,22,2007-08,2007-08,Los Angeles Lakers
+Cleveland Cavaliers,552,1544,0.358,13,2007-08,2007-08,Los Angeles Lakers
+Dallas Mavericks,494,1403,0.352,10,2007-08,2007-08,Los Angeles Lakers
+Denver Nuggets,569,1605,0.355,11,2007-08,2007-08,Los Angeles Lakers
+Detroit Pistons,487,1330,0.366,2,2007-08,2007-08,Los Angeles Lakers
+Golden State Warriors,761,2185,0.348,12,2007-08,2007-08,Los Angeles Lakers
+Houston Rockets,583,1707,0.342,6,2007-08,2007-08,Los Angeles Lakers
+Indiana Pacers,755,2021,0.374,20,2007-08,2007-08,Los Angeles Lakers
+Los Angeles Clippers,350,1079,0.324,25,2007-08,2007-08,Los Angeles Lakers
+Los Angeles Lakers,662,1751,0.378,3,2007-08,2007-08,Los Angeles Lakers
+Memphis Grizzlies,620,1779,0.349,27,2007-08,2007-08,Los Angeles Lakers
+Miami Heat,491,1373,0.358,30,2007-08,2007-08,Los Angeles Lakers
+Milwaukee Bucks,452,1313,0.344,24,2007-08,2007-08,Los Angeles Lakers
+Minnesota Timberwolves,441,1259,0.35,27,2007-08,2007-08,Los Angeles Lakers
+New Jersey Nets,498,1430,0.348,21,2007-08,2007-08,Los Angeles Lakers
+New Orleans Hornets,630,1621,0.389,4,2007-08,2007-08,Los Angeles Lakers
+New York Knicks,490,1454,0.337,25,2007-08,2007-08,Los Angeles Lakers
+Orlando Magic,801,2074,0.386,9,2007-08,2007-08,Los Angeles Lakers
+Philadelphia 76ers,302,952,0.317,17,2007-08,2007-08,Los Angeles Lakers
+Phoenix Suns,694,1764,0.393,6,2007-08,2007-08,Los Angeles Lakers
+Portland Trail Blazers,538,1426,0.377,15,2007-08,2007-08,Los Angeles Lakers
+Sacramento Kings,510,1367,0.373,18,2007-08,2007-08,Los Angeles Lakers
+San Antonio Spurs,594,1610,0.369,4,2007-08,2007-08,Los Angeles Lakers
+Seattle SuperSonics,313,939,0.333,29,2007-08,2007-08,Los Angeles Lakers
+Toronto Raptors,572,1459,0.392,15,2007-08,2007-08,Los Angeles Lakers
+Utah Jazz,407,1095,0.372,8,2007-08,2007-08,Los Angeles Lakers
+Washington Wizards,575,1614,0.356,14,2007-08,2007-08,Los Angeles Lakers
+Atlanta Hawks,597,1633,0.366,12,2008-09,2008-09,Los Angeles Lakers
+Boston Celtics,538,1355,0.397,3,2008-09,2008-09,Los Angeles Lakers
+Charlotte Bobcats,490,1339,0.366,19,2008-09,2008-09,Los Angeles Lakers
+Chicago Bulls,493,1293,0.381,15,2008-09,2008-09,Los Angeles Lakers
+Cleveland Cavaliers,656,1670,0.393,1,2008-09,2008-09,Los Angeles Lakers
+Dallas Mavericks,571,1632,0.35,9,2008-09,2008-09,Los Angeles Lakers
+Denver Nuggets,548,1477,0.371,5,2008-09,2008-09,Los Angeles Lakers
+Detroit Pistons,377,1079,0.349,17,2008-09,2008-09,Los Angeles Lakers
+Golden State Warriors,550,1475,0.373,24,2008-09,2008-09,Los Angeles Lakers
+Houston Rockets,621,1656,0.375,8,2008-09,2008-09,Los Angeles Lakers
+Indiana Pacers,652,1725,0.378,18,2008-09,2008-09,Los Angeles Lakers
+Los Angeles Clippers,535,1513,0.354,28,2008-09,2008-09,Los Angeles Lakers
+Los Angeles Lakers,547,1516,0.361,2,2008-09,2008-09,Los Angeles Lakers
+Memphis Grizzlies,398,1106,0.36,25,2008-09,2008-09,Los Angeles Lakers
+Miami Heat,582,1631,0.357,14,2008-09,2008-09,Los Angeles Lakers
+Milwaukee Bucks,511,1408,0.363,20,2008-09,2008-09,Los Angeles Lakers
+Minnesota Timberwolves,543,1539,0.353,25,2008-09,2008-09,Los Angeles Lakers
+New Jersey Nets,652,1735,0.376,20,2008-09,2008-09,Los Angeles Lakers
+New Orleans Hornets,556,1526,0.364,10,2008-09,2008-09,Los Angeles Lakers
+New York Knicks,823,2284,0.36,23,2008-09,2008-09,Los Angeles Lakers
+Oklahoma City Thunder,328,949,0.346,27,2008-09,2008-09,Los Angeles Lakers
+Orlando Magic,817,2147,0.381,4,2008-09,2008-09,Los Angeles Lakers
+Philadelphia 76ers,341,1072,0.318,15,2008-09,2008-09,Los Angeles Lakers
+Phoenix Suns,553,1445,0.383,13,2008-09,2008-09,Los Angeles Lakers
+Portland Trail Blazers,596,1555,0.383,5,2008-09,2008-09,Los Angeles Lakers
+Sacramento Kings,586,1594,0.368,30,2008-09,2008-09,Los Angeles Lakers
+San Antonio Spurs,625,1620,0.386,5,2008-09,2008-09,Los Angeles Lakers
+Toronto Raptors,479,1289,0.372,22,2008-09,2008-09,Los Angeles Lakers
+Utah Jazz,392,1122,0.349,11,2008-09,2008-09,Los Angeles Lakers
+Washington Wizards,395,1198,0.33,28,2008-09,2008-09,Los Angeles Lakers
+Atlanta Hawks,524,1455,0.36,6,2009-10,2009-10,Los Angeles Lakers
+Boston Celtics,499,1433,0.348,9,2009-10,2009-10,Los Angeles Lakers
+Charlotte Bobcats,460,1331,0.346,15,2009-10,2009-10,Los Angeles Lakers
+Chicago Bulls,352,1066,0.33,17,2009-10,2009-10,Los Angeles Lakers
+Cleveland Cavaliers,602,1582,0.381,1,2009-10,2009-10,Los Angeles Lakers
+Dallas Mavericks,558,1498,0.372,4,2009-10,2009-10,Los Angeles Lakers
+Denver Nuggets,544,1517,0.359,6,2009-10,2009-10,Los Angeles Lakers
+Detroit Pistons,374,1190,0.314,24,2009-10,2009-10,Los Angeles Lakers
+Golden State Warriors,633,1687,0.375,26,2009-10,2009-10,Los Angeles Lakers
+Houston Rockets,646,1838,0.351,16,2009-10,2009-10,Los Angeles Lakers
+Indiana Pacers,659,1896,0.348,21,2009-10,2009-10,Los Angeles Lakers
+Los Angeles Clippers,483,1457,0.332,22,2009-10,2009-10,Los Angeles Lakers
+Los Angeles Lakers,532,1562,0.341,3,2009-10,2009-10,Los Angeles Lakers
+Memphis Grizzlies,344,1020,0.337,18,2009-10,2009-10,Los Angeles Lakers
+Miami Heat,494,1426,0.346,13,2009-10,2009-10,Los Angeles Lakers
+Milwaukee Bucks,645,1813,0.356,14,2009-10,2009-10,Los Angeles Lakers
+Minnesota Timberwolves,403,1181,0.341,29,2009-10,2009-10,Los Angeles Lakers
+New Jersey Nets,377,1185,0.318,30,2009-10,2009-10,Los Angeles Lakers
+New Orleans Hornets,571,1572,0.363,20,2009-10,2009-10,Los Angeles Lakers
+New York Knicks,743,2145,0.346,22,2009-10,2009-10,Los Angeles Lakers
+Oklahoma City Thunder,418,1229,0.34,9,2009-10,2009-10,Los Angeles Lakers
+Orlando Magic,841,2241,0.375,2,2009-10,2009-10,Los Angeles Lakers
+Philadelphia 76ers,474,1381,0.343,24,2009-10,2009-10,Los Angeles Lakers
+Phoenix Suns,730,1770,0.412,5,2009-10,2009-10,Los Angeles Lakers
+Portland Trail Blazers,491,1388,0.354,9,2009-10,2009-10,Los Angeles Lakers
+Sacramento Kings,482,1383,0.349,28,2009-10,2009-10,Los Angeles Lakers
+San Antonio Spurs,554,1547,0.358,9,2009-10,2009-10,Los Angeles Lakers
+Toronto Raptors,518,1397,0.371,18,2009-10,2009-10,Los Angeles Lakers
+Utah Jazz,439,1207,0.364,6,2009-10,2009-10,Los Angeles Lakers
+Washington Wizards,432,1225,0.353,26,2009-10,2009-10,Los Angeles Lakers
+Atlanta Hawks,502,1427,0.352,13,2010-11,2010-11,Dallas Mavericks
+Boston Celtics,408,1119,0.365,6,2010-11,2010-11,Dallas Mavericks
+Charlotte Bobcats,393,1203,0.327,22,2010-11,2010-11,Dallas Mavericks
+Chicago Bulls,511,1415,0.361,1,2010-11,2010-11,Dallas Mavericks
+Cleveland Cavaliers,509,1489,0.342,29,2010-11,2010-11,Dallas Mavericks
+Dallas Mavericks,645,1768,0.365,4,2010-11,2010-11,Dallas Mavericks
+Denver Nuggets,662,1704,0.388,9,2010-11,2010-11,Dallas Mavericks
+Detroit Pistons,472,1256,0.376,24,2010-11,2010-11,Dallas Mavericks
+Golden State Warriors,685,1749,0.392,20,2010-11,2010-11,Dallas Mavericks
+Houston Rockets,677,1843,0.367,14,2010-11,2010-11,Dallas Mavericks
+Indiana Pacers,585,1653,0.354,19,2010-11,2010-11,Dallas Mavericks
+Los Angeles Clippers,513,1519,0.338,23,2010-11,2010-11,Dallas Mavericks
+Los Angeles Lakers,524,1487,0.352,4,2010-11,2010-11,Dallas Mavericks
+Memphis Grizzlies,309,926,0.334,11,2010-11,2010-11,Dallas Mavericks
+Miami Heat,547,1479,0.37,3,2010-11,2010-11,Dallas Mavericks
+Milwaukee Bucks,483,1414,0.342,21,2010-11,2010-11,Dallas Mavericks
+Minnesota Timberwolves,589,1565,0.376,30,2010-11,2010-11,Dallas Mavericks
+New Jersey Nets,459,1337,0.343,25,2010-11,2010-11,Dallas Mavericks
+New Orleans Hornets,444,1232,0.36,11,2010-11,2010-11,Dallas Mavericks
+New York Knicks,765,2081,0.368,15,2010-11,2010-11,Dallas Mavericks
+Oklahoma City Thunder,487,1403,0.347,7,2010-11,2010-11,Dallas Mavericks
+Orlando Magic,770,2103,0.366,8,2010-11,2010-11,Dallas Mavericks
+Philadelphia 76ers,443,1248,0.355,16,2010-11,2010-11,Dallas Mavericks
+Phoenix Suns,701,1857,0.377,17,2010-11,2010-11,Dallas Mavericks
+Portland Trail Blazers,518,1503,0.345,10,2010-11,2010-11,Dallas Mavericks
+Sacramento Kings,428,1277,0.335,25,2010-11,2010-11,Dallas Mavericks
+San Antonio Spurs,685,1727,0.397,2,2010-11,2010-11,Dallas Mavericks
+Toronto Raptors,345,1091,0.316,28,2010-11,2010-11,Dallas Mavericks
+Utah Jazz,435,1256,0.346,18,2010-11,2010-11,Dallas Mavericks
+Washington Wizards,392,1182,0.332,27,2010-11,2010-11,Dallas Mavericks
+Atlanta Hawks,492,1330,0.37,8,2011-12,2011-12,Oklahoma City Thunder
+Boston Celtics,363,988,0.367,10,2011-12,2011-12,Oklahoma City Thunder
+Charlotte Bobcats,263,892,0.295,30,2011-12,2011-12,Oklahoma City Thunder
+Chicago Bulls,419,1117,0.375,1,2011-12,2011-12,Oklahoma City Thunder
+Cleveland Cavaliers,440,1273,0.346,27,2011-12,2011-12,Oklahoma City Thunder
+Dallas Mavericks,497,1464,0.339,13,2011-12,2011-12,Oklahoma City Thunder
+Denver Nuggets,435,1311,0.332,11,2011-12,2011-12,Oklahoma City Thunder
+Detroit Pistons,317,916,0.346,22,2011-12,2011-12,Oklahoma City Thunder
+Golden State Warriors,524,1351,0.388,23,2011-12,2011-12,Oklahoma City Thunder
+Houston Rockets,478,1330,0.359,17,2011-12,2011-12,Oklahoma City Thunder
+Indiana Pacers,392,1064,0.368,5,2011-12,2011-12,Oklahoma City Thunder
+Los Angeles Clippers,514,1441,0.357,8,2011-12,2011-12,Oklahoma City Thunder
+Los Angeles Lakers,362,1112,0.326,6,2011-12,2011-12,Oklahoma City Thunder
+Memphis Grizzlies,277,849,0.326,6,2011-12,2011-12,Oklahoma City Thunder
+Miami Heat,370,1030,0.359,4,2011-12,2011-12,Oklahoma City Thunder
+Milwaukee Bucks,436,1265,0.345,19,2011-12,2011-12,Oklahoma City Thunder
+Minnesota Timberwolves,473,1423,0.332,21,2011-12,2011-12,Oklahoma City Thunder
+New Jersey Nets,507,1481,0.342,25,2011-12,2011-12,Oklahoma City Thunder
+New Orleans Hornets,259,777,0.333,27,2011-12,2011-12,Oklahoma City Thunder
+New York Knicks,517,1538,0.336,13,2011-12,2011-12,Oklahoma City Thunder
+Oklahoma City Thunder,472,1317,0.358,3,2011-12,2011-12,Oklahoma City Thunder
+Orlando Magic,670,1785,0.375,12,2011-12,2011-12,Oklahoma City Thunder
+Philadelphia 76ers,349,963,0.362,16,2011-12,2011-12,Oklahoma City Thunder
+Phoenix Suns,444,1295,0.343,18,2011-12,2011-12,Oklahoma City Thunder
+Portland Trail Blazers,478,1382,0.346,20,2011-12,2011-12,Oklahoma City Thunder
+Sacramento Kings,411,1301,0.316,25,2011-12,2011-12,Oklahoma City Thunder
+San Antonio Spurs,552,1405,0.393,1,2011-12,2011-12,Oklahoma City Thunder
+Toronto Raptors,365,1075,0.34,23,2011-12,2011-12,Oklahoma City Thunder
+Utah Jazz,273,845,0.323,13,2011-12,2011-12,Oklahoma City Thunder
+Washington Wizards,344,1075,0.32,29,2011-12,2011-12,Oklahoma City Thunder
+Atlanta Hawks,706,1901,0.371,14,2012-13,2012-13,San Antonio Spurs
+Boston Celtics,498,1390,0.358,16,2012-13,2012-13,San Antonio Spurs
+Brooklyn Nets,628,1760,0.357,8,2012-13,2012-13,San Antonio Spurs
+Charlotte Bobcats,469,1399,0.335,29,2012-13,2012-13,San Antonio Spurs
+Chicago Bulls,446,1265,0.353,11,2012-13,2012-13,San Antonio Spurs
+Cleveland Cavaliers,547,1581,0.346,28,2012-13,2012-13,San Antonio Spurs
+Dallas Mavericks,606,1628,0.372,16,2012-13,2012-13,San Antonio Spurs
+Denver Nuggets,521,1518,0.343,4,2012-13,2012-13,San Antonio Spurs
+Detroit Pistons,513,1440,0.356,23,2012-13,2012-13,San Antonio Spurs
+Golden State Warriors,658,1632,0.403,10,2012-13,2012-13,San Antonio Spurs
+Houston Rockets,867,2369,0.366,11,2012-13,2012-13,San Antonio Spurs
+Indiana Pacers,555,1599,0.347,8,2012-13,2012-13,San Antonio Spurs
+Los Angeles Clippers,627,1752,0.358,5,2012-13,2012-13,San Antonio Spurs
+Los Angeles Lakers,715,2015,0.355,11,2012-13,2012-13,San Antonio Spurs
+Memphis Grizzlies,382,1107,0.345,5,2012-13,2012-13,San Antonio Spurs
+Miami Heat,717,1809,0.396,1,2012-13,2012-13,San Antonio Spurs
+Milwaukee Bucks,601,1670,0.36,18,2012-13,2012-13,San Antonio Spurs
+Minnesota Timberwolves,450,1475,0.305,22,2012-13,2012-13,San Antonio Spurs
+New Orleans Hornets,535,1474,0.363,26,2012-13,2012-13,San Antonio Spurs
+New York Knicks,891,2371,0.376,7,2012-13,2012-13,San Antonio Spurs
+Oklahoma City Thunder,598,1588,0.377,2,2012-13,2012-13,San Antonio Spurs
+Orlando Magic,506,1537,0.329,30,2012-13,2012-13,San Antonio Spurs
+Philadelphia 76ers,518,1438,0.36,19,2012-13,2012-13,San Antonio Spurs
+Phoenix Suns,480,1455,0.33,27,2012-13,2012-13,San Antonio Spurs
+Portland Trail Blazers,673,1904,0.353,21,2012-13,2012-13,San Antonio Spurs
+Sacramento Kings,610,1681,0.363,25,2012-13,2012-13,San Antonio Spurs
+San Antonio Spurs,663,1764,0.376,3,2012-13,2012-13,San Antonio Spurs
+Toronto Raptors,571,1665,0.343,19,2012-13,2012-13,San Antonio Spurs
+Utah Jazz,507,1385,0.366,15,2012-13,2012-13,San Antonio Spurs
+Washington Wizards,545,1495,0.365,23,2012-13,2012-13,San Antonio Spurs
+Atlanta Hawks,768,2116,0.363,18,2013-14,2013-14,San Antonio Spurs
+Boston Celtics,575,1729,0.333,26,2013-14,2013-14,San Antonio Spurs
+Brooklyn Nets,709,1922,0.369,14,2013-14,2013-14,San Antonio Spurs
+Charlotte Bobcats,516,1471,0.351,16,2013-14,2013-14,San Antonio Spurs
+Chicago Bulls,508,1459,0.348,11,2013-14,2013-14,San Antonio Spurs
+Cleveland Cavaliers,584,1640,0.356,22,2013-14,2013-14,San Antonio Spurs
+Dallas Mavericks,721,1877,0.384,10,2013-14,2013-14,San Antonio Spurs
+Denver Nuggets,702,1959,0.358,20,2013-14,2013-14,San Antonio Spurs
+Detroit Pistons,507,1580,0.321,23,2013-14,2013-14,San Antonio Spurs
+Golden State Warriors,774,2037,0.38,8,2013-14,2013-14,San Antonio Spurs
+Houston Rockets,779,2179,0.358,5,2013-14,2013-14,San Antonio Spurs
+Indiana Pacers,550,1542,0.357,4,2013-14,2013-14,San Antonio Spurs
+Los Angeles Clippers,693,1966,0.352,3,2013-14,2013-14,San Antonio Spurs
+Los Angeles Lakers,774,2032,0.381,25,2013-14,2013-14,San Antonio Spurs
+Memphis Grizzlies,405,1147,0.353,9,2013-14,2013-14,San Antonio Spurs
+Miami Heat,665,1829,0.364,5,2013-14,2013-14,San Antonio Spurs
+Milwaukee Bucks,548,1553,0.353,30,2013-14,2013-14,San Antonio Spurs
+Minnesota Timberwolves,600,1757,0.341,17,2013-14,2013-14,San Antonio Spurs
+New Orleans Pelicans,486,1303,0.373,21,2013-14,2013-14,San Antonio Spurs
+New York Knicks,759,2038,0.372,19,2013-14,2013-14,San Antonio Spurs
+Oklahoma City Thunder,664,1839,0.361,2,2013-14,2013-14,San Antonio Spurs
+Orlando Magic,563,1596,0.353,28,2013-14,2013-14,San Antonio Spurs
+Philadelphia 76ers,577,1847,0.312,29,2013-14,2013-14,San Antonio Spurs
+Phoenix Suns,765,2055,0.372,11,2013-14,2013-14,San Antonio Spurs
+Portland Trail Blazers,770,2071,0.372,5,2013-14,2013-14,San Antonio Spurs
+Sacramento Kings,491,1475,0.333,24,2013-14,2013-14,San Antonio Spurs
+San Antonio Spurs,698,1757,0.397,1,2013-14,2013-14,San Antonio Spurs
+Toronto Raptors,713,1917,0.372,11,2013-14,2013-14,San Antonio Spurs
+Utah Jazz,543,1577,0.344,26,2013-14,2013-14,San Antonio Spurs
+Washington Wizards,647,1704,0.38,14,2013-14,2013-14,San Antonio Spurs
+Atlanta Hawks,818,2152,0.38,2,2014-15,2014-15,Golden State Warriors
+Boston Celtics,660,2021,0.327,16,2014-15,2014-15,Golden State Warriors
+Brooklyn Nets,541,1633,0.331,18,2014-15,2014-15,Golden State Warriors
+Charlotte Hornets,498,1566,0.318,22,2014-15,2014-15,Golden State Warriors
+Chicago Bulls,645,1825,0.353,9,2014-15,2014-15,Golden State Warriors
+Cleveland Cavaliers,826,2253,0.367,7,2014-15,2014-15,Golden State Warriors
+Dallas Mavericks,732,2082,0.352,9,2014-15,2014-15,Golden State Warriors
+Denver Nuggets,660,2032,0.325,24,2014-15,2014-15,Golden State Warriors
+Detroit Pistons,703,2043,0.344,23,2014-15,2014-15,Golden State Warriors
+Golden State Warriors,883,2217,0.398,1,2014-15,2014-15,Golden State Warriors
+Houston Rockets,933,2680,0.348,3,2014-15,2014-15,Golden State Warriors
+Indiana Pacers,612,1740,0.352,18,2014-15,2014-15,Golden State Warriors
+Los Angeles Clippers,827,2202,0.376,3,2014-15,2014-15,Golden State Warriors
+Los Angeles Lakers,532,1546,0.344,27,2014-15,2014-15,Golden State Warriors
+Memphis Grizzlies,423,1246,0.339,5,2014-15,2014-15,Golden State Warriors
+Miami Heat,556,1659,0.335,21,2014-15,2014-15,Golden State Warriors
+Milwaukee Bucks,545,1500,0.363,15,2014-15,2014-15,Golden State Warriors
+Minnesota Timberwolves,406,1223,0.332,30,2014-15,2014-15,Golden State Warriors
+New Orleans Pelicans,586,1583,0.37,13,2014-15,2014-15,Golden State Warriors
+New York Knicks,560,1614,0.347,29,2014-15,2014-15,Golden State Warriors
+Oklahoma City Thunder,632,1864,0.339,13,2014-15,2014-15,Golden State Warriors
+Orlando Magic,554,1598,0.347,26,2014-15,2014-15,Golden State Warriors
+Philadelphia 76ers,692,2160,0.32,28,2014-15,2014-15,Golden State Warriors
+Phoenix Suns,698,2048,0.341,17,2014-15,2014-15,Golden State Warriors
+Portland Trail Blazers,807,2231,0.362,8,2014-15,2014-15,Golden State Warriors
+Sacramento Kings,461,1350,0.341,25,2014-15,2014-15,Golden State Warriors
+San Antonio Spurs,677,1847,0.367,5,2014-15,2014-15,Golden State Warriors
+Toronto Raptors,726,2060,0.352,11,2014-15,2014-15,Golden State Warriors
+Utah Jazz,610,1781,0.343,18,2014-15,2014-15,Golden State Warriors
+Washington Wizards,497,1381,0.36,12,2014-15,2014-15,Golden State Warriors
+Atlanta Hawks,815,2326,0.35,7,2015-16,2015-16,Golden State Warriors
+Boston Celtics,717,2142,0.335,7,2015-16,2015-16,Golden State Warriors
+Brooklyn Nets,531,1508,0.352,28,2015-16,2015-16,Golden State Warriors
+Charlotte Hornets,873,2410,0.362,7,2015-16,2015-16,Golden State Warriors
+Chicago Bulls,651,1753,0.371,14,2015-16,2015-16,Golden State Warriors
+Cleveland Cavaliers,880,2428,0.362,3,2015-16,2015-16,Golden State Warriors
+Dallas Mavericks,806,2342,0.344,14,2015-16,2015-16,Golden State Warriors
+Denver Nuggets,656,1943,0.338,21,2015-16,2015-16,Golden State Warriors
+Detroit Pistons,740,2148,0.345,12,2015-16,2015-16,Golden State Warriors
+Golden State Warriors,1077,2592,0.416,1,2015-16,2015-16,Golden State Warriors
+Houston Rockets,878,2533,0.347,17,2015-16,2015-16,Golden State Warriors
+Indiana Pacers,663,1889,0.351,11,2015-16,2015-16,Golden State Warriors
+LA Clippers,797,2190,0.364,6,2015-16,2015-16,Golden State Warriors
+Los Angeles Lakers,639,2016,0.317,29,2015-16,2015-16,Golden State Warriors
+Memphis Grizzlies,504,1521,0.331,14,2015-16,2015-16,Golden State Warriors
+Miami Heat,498,1480,0.336,7,2015-16,2015-16,Golden State Warriors
+Milwaukee Bucks,440,1277,0.345,21,2015-16,2015-16,Golden State Warriors
+Minnesota Timberwolves,455,1347,0.338,26,2015-16,2015-16,Golden State Warriors
+New Orleans Pelicans,702,1951,0.36,25,2015-16,2015-16,Golden State Warriors
+New York Knicks,610,1762,0.346,24,2015-16,2015-16,Golden State Warriors
+Oklahoma City Thunder,678,1945,0.349,5,2015-16,2015-16,Golden State Warriors
+Orlando Magic,636,1818,0.35,20,2015-16,2015-16,Golden State Warriors
+Philadelphia 76ers,764,2255,0.339,30,2015-16,2015-16,Golden State Warriors
+Phoenix Suns,738,2118,0.348,27,2015-16,2015-16,Golden State Warriors
+Portland Trail Blazers,864,2336,0.37,12,2015-16,2015-16,Golden State Warriors
+Sacramento Kings,660,1839,0.359,21,2015-16,2015-16,Golden State Warriors
+San Antonio Spurs,570,1518,0.375,2,2015-16,2015-16,Golden State Warriors
+Toronto Raptors,708,1915,0.37,4,2015-16,2015-16,Golden State Warriors
+Utah Jazz,694,1956,0.355,19,2015-16,2015-16,Golden State Warriors
+Washington Wizards,709,1983,0.358,17,2015-16,2015-16,Golden State Warriors
+Atlanta Hawks,729,2137,0.341,11,2016-17,2016-17,Golden State Warriors
+Boston Celtics,985,2741,0.359,4,2016-17,2016-17,Golden State Warriors
+Brooklyn Nets,877,2591,0.338,30,2016-17,2016-17,Golden State Warriors
+Charlotte Hornets,824,2347,0.351,20,2016-17,2016-17,Golden State Warriors
+Chicago Bulls,623,1831,0.34,15,2016-17,2016-17,Golden State Warriors
+Cleveland Cavaliers,1067,2779,0.384,5,2016-17,2016-17,Golden State Warriors
+Dallas Mavericks,878,2473,0.355,22,2016-17,2016-17,Golden State Warriors
+Denver Nuggets,870,2365,0.368,18,2016-17,2016-17,Golden State Warriors
+Detroit Pistons,631,1915,0.33,19,2016-17,2016-17,Golden State Warriors
+Golden State Warriors,982,2562,0.383,1,2016-17,2016-17,Golden State Warriors
+Houston Rockets,1181,3306,0.357,3,2016-17,2016-17,Golden State Warriors
+Indiana Pacers,709,1885,0.376,13,2016-17,2016-17,Golden State Warriors
+LA Clippers,841,2245,0.375,5,2016-17,2016-17,Golden State Warriors
+Los Angeles Lakers,730,2110,0.346,28,2016-17,2016-17,Golden State Warriors
+Memphis Grizzlies,767,2169,0.354,11,2016-17,2016-17,Golden State Warriors
+Miami Heat,808,2213,0.365,15,2016-17,2016-17,Golden State Warriors
+Milwaukee Bucks,720,1946,0.37,13,2016-17,2016-17,Golden State Warriors
+Minnesota Timberwolves,601,1723,0.349,24,2016-17,2016-17,Golden State Warriors
+New Orleans Pelicans,768,2196,0.35,21,2016-17,2016-17,Golden State Warriors
+New York Knicks,704,2022,0.348,24,2016-17,2016-17,Golden State Warriors
+Oklahoma City Thunder,692,2116,0.327,10,2016-17,2016-17,Golden State Warriors
+Orlando Magic,701,2139,0.328,26,2016-17,2016-17,Golden State Warriors
+Philadelphia 76ers,831,2443,0.34,27,2016-17,2016-17,Golden State Warriors
+Phoenix Suns,615,1854,0.332,29,2016-17,2016-17,Golden State Warriors
+Portland Trail Blazers,852,2272,0.375,15,2016-17,2016-17,Golden State Warriors
+Sacramento Kings,737,1960,0.376,23,2016-17,2016-17,Golden State Warriors
+San Antonio Spurs,753,1927,0.391,2,2016-17,2016-17,Golden State Warriors
+Toronto Raptors,725,1996,0.363,5,2016-17,2016-17,Golden State Warriors
+Utah Jazz,791,2128,0.372,5,2016-17,2016-17,Golden State Warriors
+Washington Wizards,756,2030,0.372,9,2016-17,2016-17,Golden State Warriors
+Atlanta Hawks,917,2544,0.36,27,2017-18,2017-18,Golden State Warriors
+Boston Celtics,939,2492,0.377,4,2017-18,2017-18,Golden State Warriors
+Brooklyn Nets,1041,2924,0.356,23,2017-18,2017-18,Golden State Warriors
+Charlotte Hornets,824,2233,0.369,20,2017-18,2017-18,Golden State Warriors
+Chicago Bulls,906,2549,0.355,24,2017-18,2017-18,Golden State Warriors
+Cleveland Cavaliers,981,2636,0.372,6,2017-18,2017-18,Golden State Warriors
+Dallas Mavericks,967,2688,0.36,27,2017-18,2017-18,Golden State Warriors
+Denver Nuggets,940,2536,0.371,14,2017-18,2017-18,Golden State Warriors
+Detroit Pistons,886,2373,0.373,19,2017-18,2017-18,Golden State Warriors
+Golden State Warriors,926,2369,0.391,3,2017-18,2017-18,Golden State Warriors
+Houston Rockets,1256,3470,0.362,1,2017-18,2017-18,Golden State Warriors
+Indiana Pacers,741,2010,0.369,8,2017-18,2017-18,Golden State Warriors
+LA Clippers,777,2196,0.354,18,2017-18,2017-18,Golden State Warriors
+Los Angeles Lakers,822,2384,0.345,21,2017-18,2017-18,Golden State Warriors
+Memphis Grizzlies,758,2152,0.352,29,2017-18,2017-18,Golden State Warriors
+Miami Heat,903,2506,0.36,15,2017-18,2017-18,Golden State Warriors
+Milwaukee Bucks,718,2024,0.355,15,2017-18,2017-18,Golden State Warriors
+Minnesota Timberwolves,658,1845,0.357,12,2017-18,2017-18,Golden State Warriors
+New Orleans Pelicans,837,2312,0.362,8,2017-18,2017-18,Golden State Warriors
+New York Knicks,673,1914,0.352,22,2017-18,2017-18,Golden State Warriors
+Oklahoma City Thunder,881,2491,0.354,8,2017-18,2017-18,Golden State Warriors
+Orlando Magic,844,2405,0.351,26,2017-18,2017-18,Golden State Warriors
+Philadelphia 76ers,901,2445,0.369,5,2017-18,2017-18,Golden State Warriors
+Phoenix Suns,763,2286,0.334,30,2017-18,2017-18,Golden State Warriors
+Portland Trail Blazers,845,2308,0.366,7,2017-18,2017-18,Golden State Warriors
+Sacramento Kings,738,1967,0.375,24,2017-18,2017-18,Golden State Warriors
+San Antonio Spurs,696,1977,0.352,12,2017-18,2017-18,Golden State Warriors
+Toronto Raptors,968,2705,0.358,2,2017-18,2017-18,Golden State Warriors
+Utah Jazz,887,2425,0.366,8,2017-18,2017-18,Golden State Warriors
+Washington Wizards,814,2173,0.375,17,2017-18,2017-18,Golden State Warriors
+Atlanta Hawks,1067,3034,0.352,26,2018-19,2018-19,Golden State Warriors
+Boston Celtics,1032,2829,0.365,9,2018-19,2018-19,Golden State Warriors
+Brooklyn Nets,1047,2965,0.353,14,2018-19,2018-19,Golden State Warriors
+Charlotte Hornets,977,2783,0.351,17,2018-19,2018-19,Golden State Warriors
+Chicago Bulls,745,2123,0.351,27,2018-19,2018-19,Golden State Warriors
+Cleveland Cavaliers,847,2388,0.355,28,2018-19,2018-19,Golden State Warriors
+Dallas Mavericks,1022,3002,0.34,22,2018-19,2018-19,Golden State Warriors
+Denver Nuggets,903,2571,0.351,4,2018-19,2018-19,Golden State Warriors
+Detroit Pistons,993,2854,0.348,16,2018-19,2018-19,Golden State Warriors
+Golden State Warriors,1087,2824,0.385,3,2018-19,2018-19,Golden State Warriors
+Houston Rockets,1323,3721,0.356,5,2018-19,2018-19,Golden State Warriors
+Indiana Pacers,779,2081,0.374,11,2018-19,2018-19,Golden State Warriors
+LA Clippers,821,2118,0.388,11,2018-19,2018-19,Golden State Warriors
+Los Angeles Lakers,847,2541,0.333,20,2018-19,2018-19,Golden State Warriors
+Memphis Grizzlies,811,2368,0.342,22,2018-19,2018-19,Golden State Warriors
+Miami Heat,928,2658,0.349,17,2018-19,2018-19,Golden State Warriors
+Milwaukee Bucks,1105,3134,0.353,1,2018-19,2018-19,Golden State Warriors
+Minnesota Timberwolves,827,2357,0.351,21,2018-19,2018-19,Golden State Warriors
+New Orleans Pelicans,842,2449,0.344,22,2018-19,2018-19,Golden State Warriors
+New York Knicks,823,2421,0.34,30,2018-19,2018-19,Golden State Warriors
+Oklahoma City Thunder,932,2677,0.348,9,2018-19,2018-19,Golden State Warriors
+Orlando Magic,937,2633,0.356,14,2018-19,2018-19,Golden State Warriors
+Philadelphia 76ers,889,2474,0.359,7,2018-19,2018-19,Golden State Warriors
+Phoenix Suns,790,2400,0.329,28,2018-19,2018-19,Golden State Warriors
+Portland Trail Blazers,904,2520,0.359,5,2018-19,2018-19,Golden State Warriors
+Sacramento Kings,927,2455,0.378,17,2018-19,2018-19,Golden State Warriors
+San Antonio Spurs,812,2071,0.392,11,2018-19,2018-19,Golden State Warriors
+Toronto Raptors,1015,2771,0.366,2,2018-19,2018-19,Golden State Warriors
+Utah Jazz,993,2789,0.356,8,2018-19,2018-19,Golden State Warriors
+Washington Wizards,930,2731,0.341,25,2018-19,2018-19,Golden State Warriors
+Atlanta Hawks,805,2416,0.333,26,2019-20,2019-20,Los Angeles Lakers
+Boston Celtics,905,2487,0.364,5,2019-20,2019-20,Los Angeles Lakers
+Brooklyn Nets,941,2746,0.343,14,2019-20,2019-20,Los Angeles Lakers
+Charlotte Hornets,785,2231,0.352,23,2019-20,2019-20,Los Angeles Lakers
+Chicago Bulls,793,2282,0.348,24,2019-20,2019-20,Los Angeles Lakers
+Cleveland Cavaliers,727,2070,0.351,28,2019-20,2019-20,Los Angeles Lakers
+Dallas Mavericks,1136,3095,0.367,12,2019-20,2019-20,Los Angeles Lakers
+Denver Nuggets,801,2234,0.359,6,2019-20,2019-20,Los Angeles Lakers
+Detroit Pistons,791,2157,0.367,26,2019-20,2019-20,Los Angeles Lakers
+Golden State Warriors,678,2032,0.334,30,2019-20,2019-20,Los Angeles Lakers
+Houston Rockets,1126,3261,0.345,8,2019-20,2019-20,Los Angeles Lakers
+Indiana Pacers,743,2046,0.363,7,2019-20,2019-20,Los Angeles Lakers
+LA Clippers,895,2410,0.371,4,2019-20,2019-20,Los Angeles Lakers
+Los Angeles Lakers,782,2242,0.349,3,2019-20,2019-20,Los Angeles Lakers
+Memphis Grizzlies,798,2297,0.347,16,2019-20,2019-20,Los Angeles Lakers
+Miami Heat,979,2584,0.379,8,2019-20,2019-20,Los Angeles Lakers
+Milwaukee Bucks,1007,2840,0.355,1,2019-20,2019-20,Los Angeles Lakers
+Minnesota Timberwolves,853,2540,0.336,28,2019-20,2019-20,Los Angeles Lakers
+New Orleans Pelicans,982,2656,0.37,21,2019-20,2019-20,Los Angeles Lakers
+New York Knicks,631,1872,0.337,25,2019-20,2019-20,Los Angeles Lakers
+Oklahoma City Thunder,770,2171,0.355,8,2019-20,2019-20,Los Angeles Lakers
+Orlando Magic,807,2354,0.343,18,2019-20,2019-20,Los Angeles Lakers
+Philadelphia 76ers,848,2307,0.368,12,2019-20,2019-20,Los Angeles Lakers
+Phoenix Suns,831,2320,0.358,16,2019-20,2019-20,Los Angeles Lakers
+Portland Trail Blazers,952,2525,0.377,14,2019-20,2019-20,Los Angeles Lakers
+Sacramento Kings,914,2511,0.364,20,2019-20,2019-20,Los Angeles Lakers
+San Antonio Spurs,760,2021,0.376,19,2019-20,2019-20,Los Angeles Lakers
+Toronto Raptors,995,2663,0.374,2,2019-20,2019-20,Los Angeles Lakers
+Utah Jazz,963,2537,0.38,8,2019-20,2019-20,Los Angeles Lakers
+Washington Wizards,864,2345,0.368,22,2019-20,2019-20,Los Angeles Lakers
+Atlanta Hawks,895,2402,0.373,11,2020-21,2020-21,Phoenix Suns
+Boston Celtics,979,2618,0.374,16,2020-21,2020-21,Phoenix Suns
+Brooklyn Nets,1020,2600,0.392,4,2020-21,2020-21,Phoenix Suns
+Charlotte Hornets,985,2666,0.369,19,2020-21,2020-21,Phoenix Suns
+Chicago Bulls,904,2446,0.37,21,2020-21,2020-21,Phoenix Suns
+Cleveland Cavaliers,720,2141,0.336,26,2020-21,2020-21,Phoenix Suns
+Dallas Mavericks,994,2744,0.362,8,2020-21,2020-21,Phoenix Suns
+Denver Nuggets,927,2462,0.377,5,2020-21,2020-21,Phoenix Suns
+Detroit Pistons,832,2370,0.351,29,2020-21,2020-21,Phoenix Suns
+Golden State Warriors,1048,2789,0.376,14,2020-21,2020-21,Phoenix Suns
+Houston Rockets,992,2923,0.339,30,2020-21,2020-21,Phoenix Suns
+Indiana Pacers,889,2445,0.364,17,2020-21,2020-21,Phoenix Suns
+LA Clippers,1027,2498,0.411,5,2020-21,2020-21,Phoenix Suns
+Los Angeles Lakers,796,2248,0.354,8,2020-21,2020-21,Phoenix Suns
+Memphis Grizzlies,803,2258,0.356,15,2020-21,2020-21,Phoenix Suns
+Miami Heat,932,2606,0.358,13,2020-21,2020-21,Phoenix Suns
+Milwaukee Bucks,1038,2669,0.389,7,2020-21,2020-21,Phoenix Suns
+Minnesota Timberwolves,944,2706,0.349,25,2020-21,2020-21,Phoenix Suns
+New Orleans Pelicans,762,2190,0.348,21,2020-21,2020-21,Phoenix Suns
+New York Knicks,847,2163,0.392,11,2020-21,2020-21,Phoenix Suns
+Oklahoma City Thunder,857,2529,0.339,26,2020-21,2020-21,Phoenix Suns
+Orlando Magic,784,2288,0.343,28,2020-21,2020-21,Phoenix Suns
+Philadelphia 76ers,811,2169,0.374,3,2020-21,2020-21,Phoenix Suns
+Phoenix Suns,940,2490,0.378,2,2020-21,2020-21,Phoenix Suns
+Portland Trail Blazers,1132,2939,0.385,8,2020-21,2020-21,Phoenix Suns
+Sacramento Kings,874,2400,0.364,21,2020-21,2020-21,Phoenix Suns
+San Antonio Spurs,716,2046,0.35,19,2020-21,2020-21,Phoenix Suns
+Toronto Raptors,1041,2831,0.368,24,2020-21,2020-21,Phoenix Suns
+Utah Jazz,1205,3098,0.389,1,2020-21,2020-21,Phoenix Suns
+Washington Wizards,733,2088,0.351,17,2020-21,2020-21,Phoenix Suns
+Atlanta Hawks,1056,2821,0.374,16,2021-22,2021-22,Golden State Warriors
+Boston Celtics,1085,3044,0.356,6,2021-22,2021-22,Golden State Warriors
+Brooklyn Nets,940,2602,0.361,14,2021-22,2021-22,Golden State Warriors
+Charlotte Hornets,1143,3130,0.365,16,2021-22,2021-22,Golden State Warriors
+Chicago Bulls,872,2364,0.369,12,2021-22,2021-22,Golden State Warriors
+Cleveland Cavaliers,953,2686,0.355,14,2021-22,2021-22,Golden State Warriors
+Dallas Mavericks,1073,3063,0.35,5,2021-22,2021-22,Golden State Warriors
+Denver Nuggets,1039,2944,0.353,10,2021-22,2021-22,Golden State Warriors
+Detroit Pistons,925,2838,0.326,28,2021-22,2021-22,Golden State Warriors
+Golden State Warriors,1176,3231,0.364,3,2021-22,2021-22,Golden State Warriors
+Houston Rockets,1105,3170,0.349,30,2021-22,2021-22,Golden State Warriors
+Indiana Pacers,997,2899,0.344,26,2021-22,2021-22,Golden State Warriors
+LA Clippers,1047,2802,0.374,18,2021-22,2021-22,Golden State Warriors
+Los Angeles Lakers,982,2826,0.347,23,2021-22,2021-22,Golden State Warriors
+Memphis Grizzlies,945,2679,0.353,2,2021-22,2021-22,Golden State Warriors
+Miami Heat,1114,2936,0.379,3,2021-22,2021-22,Golden State Warriors
+Milwaukee Bucks,1153,3151,0.366,6,2021-22,2021-22,Golden State Warriors
+Minnesota Timberwolves,1211,3386,0.358,12,2021-22,2021-22,Golden State Warriors
+New Orleans Pelicans,873,2629,0.332,20,2021-22,2021-22,Golden State Warriors
+New York Knicks,1082,3029,0.357,19,2021-22,2021-22,Golden State Warriors
+Oklahoma City Thunder,991,3066,0.323,27,2021-22,2021-22,Golden State Warriors
+Orlando Magic,999,3022,0.331,29,2021-22,2021-22,Golden State Warriors
+Philadelphia 76ers,950,2608,0.364,6,2021-22,2021-22,Golden State Warriors
+Phoenix Suns,951,2616,0.364,1,2021-22,2021-22,Golden State Warriors
+Portland Trail Blazers,1043,3017,0.346,25,2021-22,2021-22,Golden State Warriors
+Sacramento Kings,937,2722,0.344,24,2021-22,2021-22,Golden State Warriors
+San Antonio Spurs,925,2626,0.352,22,2021-22,2021-22,Golden State Warriors
+Toronto Raptors,979,2808,0.349,10,2021-22,2021-22,Golden State Warriors
+Utah Jazz,1192,3308,0.36,9,2021-22,2021-22,Golden State Warriors
+Washington Wizards,860,2512,0.342,21,2021-22,2021-22,Golden State Warriors
+Atlanta Hawks,882,2505,0.352,17,2022-23,2022-23,Denver Nuggets
+Boston Celtics,1315,3492,0.377,2,2022-23,2022-23,Denver Nuggets
+Brooklyn Nets,1048,2771,0.378,9,2022-23,2022-23,Denver Nuggets
+Charlotte Hornets,881,2669,0.33,27,2022-23,2022-23,Denver Nuggets
+Chicago Bulls,854,2367,0.361,19,2022-23,2022-23,Denver Nuggets
+Cleveland Cavaliers,950,2589,0.367,5,2022-23,2022-23,Denver Nuggets
+Dallas Mavericks,1246,3362,0.371,21,2022-23,2022-23,Denver Nuggets
+Denver Nuggets,969,2559,0.379,4,2022-23,2022-23,Denver Nuggets
+Detroit Pistons,934,2659,0.351,30,2022-23,2022-23,Denver Nuggets
+Golden State Warriors,1363,3540,0.385,11,2022-23,2022-23,Denver Nuggets
+Houston Rockets,856,2619,0.327,28,2022-23,2022-23,Denver Nuggets
+Indiana Pacers,1112,3030,0.367,23,2022-23,2022-23,Denver Nuggets
+LA Clippers,1041,2734,0.381,11,2022-23,2022-23,Denver Nuggets
+Los Angeles Lakers,885,2558,0.346,14,2022-23,2022-23,Denver Nuggets
+Memphis Grizzlies,985,2807,0.351,5,2022-23,2022-23,Denver Nuggets
+Miami Heat,980,2852,0.344,11,2022-23,2022-23,Denver Nuggets
+Milwaukee Bucks,1217,3306,0.368,1,2022-23,2022-23,Denver Nuggets
+Minnesota Timberwolves,997,2731,0.365,15,2022-23,2022-23,Denver Nuggets
+New Orleans Pelicans,899,2468,0.364,15,2022-23,2022-23,Denver Nuggets
+New York Knicks,1037,2930,0.354,8,2022-23,2022-23,Denver Nuggets
+Oklahoma City Thunder,995,2797,0.356,19,2022-23,2022-23,Denver Nuggets
+Orlando Magic,883,2551,0.346,25,2022-23,2022-23,Denver Nuggets
+Philadelphia 76ers,1035,2675,0.387,3,2022-23,2022-23,Denver Nuggets
+Phoenix Suns,1001,2674,0.374,9,2022-23,2022-23,Denver Nuggets
+Portland Trail Blazers,1056,2893,0.365,26,2022-23,2022-23,Denver Nuggets
+Sacramento Kings,1128,3060,0.369,7,2022-23,2022-23,Denver Nuggets
+San Antonio Spurs,911,2640,0.345,28,2022-23,2022-23,Denver Nuggets
+Toronto Raptors,880,2626,0.335,17,2022-23,2022-23,Denver Nuggets
+Utah Jazz,1094,3099,0.353,22,2022-23,2022-23,Denver Nuggets
+Washington Wizards,925,2601,0.356,23,2022-23,2022-23,Denver Nuggets
+Atlanta Hawks,1125,3092,0.364,21,2023-24,2023-24,Dallas Mavericks
+Boston Celtics,1351,3482,0.388,1,2023-24,2023-24,Dallas Mavericks
+Brooklyn Nets,1089,3010,0.362,22,2023-24,2023-24,Dallas Mavericks
+Charlotte Hornets,989,2788,0.355,27,2023-24,2023-24,Dallas Mavericks
+Chicago Bulls,941,2630,0.358,20,2023-24,2023-24,Dallas Mavericks
+Cleveland Cavaliers,1108,3016,0.367,11,2023-24,2023-24,Dallas Mavericks
+Dallas Mavericks,1197,3242,0.369,6,2023-24,2023-24,Dallas Mavericks
+Denver Nuggets,958,2560,0.374,2,2023-24,2023-24,Dallas Mavericks
+Detroit Pistons,906,2602,0.348,30,2023-24,2023-24,Dallas Mavericks
+Golden State Warriors,1211,3191,0.38,16,2023-24,2023-24,Dallas Mavericks
+Houston Rockets,1043,2964,0.352,19,2023-24,2023-24,Dallas Mavericks
+Indiana Pacers,1082,2891,0.374,12,2023-24,2023-24,Dallas Mavericks
+LA Clippers,1036,2719,0.381,5,2023-24,2023-24,Dallas Mavericks
+Los Angeles Lakers,969,2572,0.377,12,2023-24,2023-24,Dallas Mavericks
+Memphis Grizzlies,1071,3097,0.346,24,2023-24,2023-24,Dallas Mavericks
+Miami Heat,1022,2765,0.37,16,2023-24,2023-24,Dallas Mavericks
+Milwaukee Bucks,1163,3122,0.373,8,2023-24,2023-24,Dallas Mavericks
+Minnesota Timberwolves,1037,2681,0.387,4,2023-24,2023-24,Dallas Mavericks
+New Orleans Pelicans,1023,2673,0.383,8,2023-24,2023-24,Dallas Mavericks
+New York Knicks,1083,2936,0.369,6,2023-24,2023-24,Dallas Mavericks
+Oklahoma City Thunder,1090,2805,0.389,2,2023-24,2023-24,Dallas Mavericks
+Orlando Magic,903,2568,0.352,12,2023-24,2023-24,Dallas Mavericks
+Philadelphia 76ers,992,2733,0.363,12,2023-24,2023-24,Dallas Mavericks
+Phoenix Suns,1020,2671,0.382,8,2023-24,2023-24,Dallas Mavericks
+Portland Trail Blazers,939,2723,0.345,27,2023-24,2023-24,Dallas Mavericks
+Sacramento Kings,1178,3219,0.366,16,2023-24,2023-24,Dallas Mavericks
+San Antonio Spurs,1036,2983,0.347,26,2023-24,2023-24,Dallas Mavericks
+Toronto Raptors,942,2712,0.347,25,2023-24,2023-24,Dallas Mavericks
+Utah Jazz,1060,2993,0.354,23,2023-24,2023-24,Dallas Mavericks
+Washington Wizards,1015,2915,0.348,29,2023-24,2023-24,Dallas Mavericks
